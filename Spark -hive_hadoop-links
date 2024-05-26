@@ -17,6 +17,9 @@ https://www.pluralsight.com/blog/software-development/scala-vs-python
 https://blog.knoldus.com/cluster-vs-client-execution-modes-for-a-spark-application/122
 https://github.com/PacktPublishing/PySpark-for-Beginners
 https://siraj-deen.medium.com/garbage-collection-in-spark-why-it-matters-and-how-to-optimize-it-for-optimal-performance-d9a31ab5ff78#:~:text=One%20of%20the%20most%20important,number%20of%20objects%20in%20memory.
+https://pythonexamples.org/pyspark-word-count-example/
+https://www.24tutorials.com/spark/word-count-program-spark/
+http://spark.apache.org/docs/0.6.0/api/core/#spark.RDD
 
 
 
@@ -55,23 +58,6 @@ https://github.com/tuanavu/airflow-tutorial
 https://www.applydatascience.com/airflow/writing-your-first-pipeline/
 
 
-SQL
-https://csharp-video-tutorials.blogspot.com/2013/08/part-1-connecting-to-sql-server.html#google_vignette
-https://www.pragimtech.com/courses/sql-server-tutorial-for-beginners/
-https://csharp-video-tutorials.blogspot.com/2014/05/sql-server-interview-questions-and.html
-https://medium.com/@mayuribudake999/sql-interview-questions-2cdba11e20f--good
-https://engineeringinterviewquestions.com/sql-query-interview-questions-and-answers/--good
-https://www.educba.com/sql-regexp/--ok
-https://data-flair.training/blogs/sql-query-interview-questions/--ok
-https://artoftesting.com/sql-queries-for-interview —good
-https://www.interviewquery.com/blog-sql-interview-questions/
-Hackersrank—again, occupation, pads, binary tree, new companies, blunder,Placement
-Praam—again with out checking, revise, stored procedure, pivot
-W3school revise
-https://www.interviewquery.com/p/sql-cumulative-sum-guide#practice-interview-questions
-
-
-
 Cap theorem
 https://www.analyticsvidhya.com/blog/2020/08/a-beginners-guide-to-cap-theorem-for-data-engineering/#:~:text=The%20CAP%20theorem%20states%20that%20a%20distributed%20database,due%20to%20network%20failure%20or%20some%20other%20reason.
 https://www.analyticsvidhya.com/blog/2015/03/basics-sql-rdbms/
@@ -83,16 +69,6 @@ https://github.com/PacktPublishing/PySpark-for-Beginners
 https://education.github.com/git-cheat-sheet-education.pdf
 https://github.com/joshnh/Git-Commands
 
-
-Pyspark/spark
-https://pythonexamples.org/pyspark-word-count-example/
-https://www.24tutorials.com/spark/word-count-program-spark/
-http://spark.apache.org/docs/0.6.0/api/core/#spark.RDD
-
-Data modeling
-https://www.programiz.com/python-programming/inheritance
-https://www.guru99.com/star-snowflake-data-warehousing.html
-https://www.guru99.com/data-modeling-interview-questions-answers.html
 
 Small file problems and spark optimization
 https://medium.com/swlh/10-ways-to-improve-spark-performance-b54e89b8d83a
@@ -111,24 +87,5 @@ https://hackernoon.com/thorough-introduction-to-apache-kafka-6fbf2989bbc1
 
 Hadoop 1 /hadoop2
 https://www.hdfstutorial.com/blog/hadoop-1-vs-hadoop-2-differences/#:~:text=Hadoop%202%20has%20definitely%20overcome%20most%20of%20the,2.0.%20the%20default%20block%20size%20is%20128%20MB.
-
-
-After interview DS practice
-https://leetcode.com/problems/merge-two-binary-trees/solution/
-
-BST class
-https://www.codesdope.com/course/data-structures-binary-search-trees/
-https://www.programiz.com/python-programming/inheritance
-
-Data Structure
-https://blog.usejournal.com/500-data-structures-and-algorithms-practice-problems-35afe8a1e222
-https://dzone.com/articles/50-programming-interview-questions-for-java-and-py
-https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/-------------maditory
-https://intellipaat.com/blog/interview-question/sql-interview-questions/
-https://www.w3schools.com/python/python_ref_keywords.asp
-https://www.quora.com/How-do-relational-database-systems-optimise-queries
-http://www.vldb.org/pvldb/vol7/p1452-ahmed.pdf
-https://cs.uwaterloo.ca/~david/cs848s13/graefe.pdf
-https://www.geeksforgeeks.org/python-exercises-practice-questions-and-solutions/
 
 

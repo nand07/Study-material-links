@@ -20,6 +20,7 @@ https://siraj-deen.medium.com/garbage-collection-in-spark-why-it-matters-and-how
 https://pythonexamples.org/pyspark-word-count-example/
 https://www.24tutorials.com/spark/word-count-program-spark/
 http://spark.apache.org/docs/0.6.0/api/core/#spark.RDD
+https://medium.com/expedia-group-tech/deep-dive-into-apache-spark-window-functions-7b4e39ad3c86
 
 
 
@@ -37,10 +38,17 @@ https://github.com/spoddutur/spark-notes/blob/master/task_memory_management_in_s
 https://www.linkedin.com/pulse/apache-spark-tackling-out-of-memory-errors-memory-management-kumar/
 https://www.linkedin.com/pulse/out-memory-sparkoom-typical-causes-resolutions-omprakash-g/
 https://medium.com/@ARishi/spark-out-of-memory-issue-memory-tuning-and-management-in-pyspark-548a404a01b2#:~:text=Most%20of%20the%20time%2C%20when,languages%20like%20R%20or%20Python.
+https://www.linkedin.com/pulse/troubleshooting-executor-out-memory-error-pyspark-ananth-tirumanur-gc9re/
+https://www.clairvoyant.ai/blog/apache-spark-out-of-memory-issue
 
 file formats
 https://medium.com/@abbad/which-file-format-should-i-use-73b58404bedb
+https://www.linkedin.com/pulse/big-data-file-formats-which-one-right-fit-amandeep-modgil/
 
+SCD type  
+https://setumo.medium.com/slowly-changing-dimensions-scd-in-azure-synapse-analytics-5e7aefa31564 
+https://medium.com/analytics-vidhya/scd-type2-implementation-in-python-95bb08878ce2 https://www.taygan.co/blog/2022/03/21/slowly-changing-dimensions-scd
+https://medium.com/@muhammadahmedsuhail007/guide-to-building-a-near-real-time-data-warehouse-analysis-project-bdd078257ea9
 
 AWS
 https://data-flair.training/blogs/aws-advantages/

@@ -24,6 +24,7 @@ https://medium.com/expedia-group-tech/deep-dive-into-apache-spark-window-functio
 https://www.linkedin.com/pulse/optimizing-your-apache-hive-queries-bucketing-sort-merge-varun-rao/
 https://akash-dwivedi.medium.com/sort-merge-join-in-spark-9ebf40436bd3
 https://www.linkedin.com/pulse/leveraging-spark-accumulators-real-time-metrics-etl-my-kasireddy/
+https://github.com/kevinschaich/pyspark-cheatsheet?tab=readme-ov-file#quickstart
 
 
 
